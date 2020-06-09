@@ -10,6 +10,7 @@
 
 # production
 /build
+/medical_records_storage/build
 
 # misc
 .DS_Store
