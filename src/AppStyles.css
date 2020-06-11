@@ -1,3 +1,11 @@
-.App {
+.centered {
   text-align: center;
+}
+
+.leftAlign {
+  text-align: left;
+}
+
+.rightAlign {
+  text-align: right;
 }
